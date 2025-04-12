@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi, I'm Alitarek1711<br>I'm a Data Analyst passionate about turning complex data into clear insights for better decision-making.<br><br>I work with:<br><br>Python (Pandas – NumPy – Matplotlib – Seaborn)<br><br>SQL<br><br>Power BI<br><br>Excel<br><br>I love analyzing and cleaning data, discovering patterns, and presenting results in a simple and impactful way.<br><br>My goals:<br><br>Deliver end-to-end data analysis projects<br><br>Improve my skills in data visualization and design<br><br>Contribute to open-source data analysis projects<br><br>Fun fact: My favorite part is data cleaning – it's like solving a mysterious puzzle.<br><br>You can reach me at: alielgenedy80@gmail.com</p>
+<p align="left">Hi, I'm Ali لإarek<br>I'm a Data Analyst passionate about turning complex data into clear insights for better decision-making.<br><br>I work with:<br><br>Python (Pandas – NumPy – Matplotlib – Seaborn)<br><br>SQL<br><br>Power BI<br><br>Excel<br><br>I love analyzing and cleaning data, discovering patterns, and presenting results in a simple and impactful way.<br><br>My goals:<br><br>Deliver end-to-end data analysis projects<br><br>Improve my skills in data visualization and design<br><br>Contribute to open-source data analysis projects<br><br>Fun fact: My favorite part is data cleaning – it's like solving a mysterious puzzle.<br><br>You can reach me at: alielgenedy80@gmail.com</p>
 
 ###
 
