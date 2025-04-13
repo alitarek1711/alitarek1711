@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Ali Tarekand I'm a Data Analyst from Egypt</h2>
+<h2 align="left">My name is Ali Tarek and I'm a Data Analyst from Egypt</h2>
 
 ###
 
