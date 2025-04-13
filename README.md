@@ -1,31 +1,41 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1>
+  Hey there, I'm Ali Tarek 
+</h1>
 
-###
+<p>
+I'm a Data Analyst who enjoys turning messy data into meaningful insights.  
+I believe data tells a story — and I love helping others read it.
+</p>
 
-<h2 align="left">My name is Ali Tarek and I'm a Data Analyst from Egypt</h2>
+- 👨‍💻 Currently working with Python, SQL, Power BI, Excel  
+- 📚 Improving my skills in data visualization and storytelling  
+- 🎯 Future Goals: Deliver end-to-end analysis projects & contribute to open-source
 
-###
+---
 
-<h3 align="left">I'm a Data Analyst who enjoys turning messy data into meaningful insights. I believe data tells a story — and I love helping others read it.</h3>
+### 📫 Social Links
 
-###
+<p>
+<a href="https://www.facebook.com/profile.php?id=100012322510887"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="http://www.linkedin.com/in/alitarek2003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.upwork.com/freelancers/~016bf59aa31122c91f"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white" alt="Upwork"></a>
+</p>
 
-<p align="left">Hi, I'm Ali Tarek<br>I'm a Data Analyst passionate about turning complex data into clear insights for better decision-making.<br><br>I work with:<br><br>Python (Pandas – NumPy – Matplotlib – Seaborn)<br><br>SQL<br><br>Power BI<br><br>Excel<br><br>I love analyzing and cleaning data, discovering patterns, and presenting results in a simple and impactful way.<br><br>My goals:<br><br>Deliver end-to-end data analysis projects<br><br>Improve my skills in data visualization and design<br><br>Contribute to open-source data analysis projects<br><br>Fun fact: My favorite part is data cleaning – it's like solving a mysterious puzzle.<br><br>You can reach me at: alielgenedy80@gmail.com</p>
+---
 
-###
+### 🛠️ Tools & Technologies
 
-<h2 align="left">I work with tools like:</h2>
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?style=flat&logo=powerbi&logoColor=yellow)
+![Excel](https://img.shields.io/badge/-Excel-000?style=flat&logo=microsoftexcel&logoColor=green)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-</div>
+### 📈 GitHub Profile Views
 
-###
+<a href="https://komarev.com/ghpvc/?username=alitarek1711&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=alitarek1711&style=for-the-badge">
+</a>
